@@ -14,7 +14,7 @@ This study investigates the application of Smoothed Particle Hydrodynamics (SPH)
 The repository also includes the full 20-page report of the research project. The report provides an in-depth analysis of the methodology, implementation details, validation process, results, and discussions. It serves as a comprehensive document detailing the research findings and conclusions.
 
 ## Usage
-Feel free to explore the code and report in this repository for a deeper understanding of the SPH-based swallowing simulations. Contributions from the community to enhance the accuracy and efficiency of the swallowing simulation. If you have any suggestions, please feel free to submit a pull request or reach out through imranrizkiputranto@gmail.com.
+Feel free to explore the code and report in this repository for a deeper understanding of the SPH-based swallowing simulations. Contributions from the community to enhance the accuracy and efficiency of the swallowing simulation are welcome. If you have any suggestions, please feel free to submit a pull request or reach out through imranrizkiputranto@gmail.com.
 
 Please note that the code and report are intended for educational and research purposes only. Proper attribution should be given if you use or refer to any part of this work in your own projects or research.
 
